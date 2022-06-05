@@ -19,3 +19,13 @@ def detect(text):
        return 
 detect(a)
 ```
+
+# output:
+```bash
+mm
+mom
+hh
+amoma
+ll
+aboba
+```
