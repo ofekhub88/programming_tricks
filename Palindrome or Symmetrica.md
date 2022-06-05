@@ -4,7 +4,7 @@
 a="find Palindrome or Symmetrica in any given text like momkljhhamomallaboba"
 
 def detect(text):
-    if len(text) > 2:
+    if len(text) > 1:
       if text == text[::-1]:
         print(text)
         return 
